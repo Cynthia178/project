@@ -1,1 +1,3 @@
 Hi thia is file A
+
+I hope a conflict comes about
